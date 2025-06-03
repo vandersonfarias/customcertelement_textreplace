@@ -90,9 +90,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests with
 Developed by **Vanderson Farias**.
 For questions or suggestions, reach out via GitHub.
 
----
-
-Let me know if you'd like it formatted as a Markdown file or need other translations.
 ------------
 
 Portuguese
